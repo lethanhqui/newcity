@@ -1,0 +1,72 @@
+/* CSS Document */
+.sub-news::-webkit-scrollbar{width:0 !important; height:0 !important; display:none!important}
+.content-table::-webkit-scrollbar{width:0 !important; height:0 !important; display:none!important}
+.news-list::-webkit-scrollbar{width:0 !important; height:0 !important; display:none!important}
+.sub-nav::-webkit-scrollbar{width:0 !important; height:0 !important; display:none!important}
+.sub-block::-webkit-scrollbar{width:0 !important; height:0 !important; display:none!important}
+.sub-nav-typical::-webkit-scrollbar{width:0 !important; height:0 !important; display:none!important}
+
+.video-cover[data-fullscreen=true] video::-webkit-media-controls {display:none !important;}
+.video-cover[data-fullscreen=true] video::-webkit-media-controls-enclosure {display:none !important;}
+.controls progress::-webkit-progress-value {background-color:#fff;}
+
+
+.slide-container-3d .shadow-left { background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0))); background-image: -webkit-linear-gradient(right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0)); 
+}
+.slide-container-3d .shadow-right { background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0)));background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0)); 
+}
+.slide-container-3d .shadow-top { background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0))); background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0)); 
+}
+.slide-container-3d .shadow-bottom { background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0)));background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0)); 
+}
+
+#index-page{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%);}
+.link-page::after{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%);}
+.sub-news li a::after{background:-webkit-linear-gradient(320deg, rgb(118, 174, 67) 0%, rgb(17, 172, 228) 80%);}
+.shadow.color{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%); }
+.overlay-menu{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 0.9) 0%, rgba(17, 172, 228, 0.9) 80%);}
+.nav-click, .subscribe-icon{ background:-webkit-linear-gradient(320deg, rgb(118, 174, 67) 0%, rgb(17, 172, 228) 80%);}
+.nav-click span, .subscribe-icon span{background:-webkit-linear-gradient(320deg, rgb(118, 174, 67) 0%, rgb(17, 172, 228) 80%);}
+.go-details{background:-webkit-linear-gradient(320deg, rgb(118, 174, 67) 0%, rgb(17, 172, 228) 80%);}
+.location-home{background:-webkit-linear-gradient(320deg, rgb(118, 174, 67) 0%, rgb(17, 172, 228) 80%);}
+.go-page::after, .go-back::after, .house-pdf  h3::after{background:-webkit-linear-gradient(320deg, rgb(118, 174, 67) 0%, rgb(17, 172, 228) 80%); }
+.go-page span, .go-back span{background:-webkit-linear-gradient(320deg, rgb(17, 172, 228)  0%, rgb(118, 174, 67) 80%); }
+.register-form{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 0.9) 0%, rgba(17, 172, 228, 0.9) 80%);}
+.left-content{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 0.6) 0%, rgba(17, 172, 228, 0.6) 80%);}
+button{background:-webkit-linear-gradient(320deg, rgb(118, 174, 67) 0%, rgb(17, 172, 228) 80%);}
+button:hover{background:-webkit-linear-gradient(320deg, rgb(17, 172, 228) 0%, rgb(118, 174, 67)  80%);}
+.content-box{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 0.6) 0%, rgba(17, 172, 228, 0.6) 80%);}
+.sub-nav li a::after{background:-webkit-linear-gradient(320deg, rgb(118, 174, 67) 0%, rgb(17, 172, 228) 80%);}
+.apartment-poiter a h3{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%);}
+.download-pdf span{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%);}
+.view-album span{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%); }
+.title-pdf  h3::after{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%); }
+.title-pic::after{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%);}
+.contact-box{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 0.8) 0%, rgba(17, 172, 228, 0.8) 80%);}
+.shape-bg{ background:-webkit-linear-gradient(320deg, rgb(255, 255, 255) 30%, rgb(214, 217, 214) 80%);}
+.shape-bg::before{background:-webkit-linear-gradient(320deg, rgb(255, 255, 255) 30%, rgb(118, 174, 67) 80%); }
+.shape-bg::after{ background:-webkit-linear-gradient(320deg, rgb(255, 255, 255) 30%,  rgb(17, 172, 228) 80%);}
+.bg-color{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%);}
+.note-facilities li h3 span{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%); }
+.overlay-dark{background:-webkit-linear-gradient(320deg, rgba(75, 106, 15, 0.8) 0%, rgba(0, 93, 116, 0.8) 80%);}
+.b-left, .b-top, .b-right, .b-bottom{background:-webkit-linear-gradient(320deg,  rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%);}
+.enter-site::after, .enter-site span{ background:-webkit-linear-gradient(320deg, 174, 67) 0%, rgb(17, 172, 228) 80%);}
+.typical-name, .apartment-details{  background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%); }
+.house-name::after{ background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%); }
+
+
+@media screen and (max-width: 1100px){
+.social{ background:-webkit-linear-gradient(320deg, rgb(118, 174, 67) 0%, rgb(17, 172, 228) 80%);}
+button:hover{background:-webkit-linear-gradient(320deg, rgb(118, 174, 67) 0%, rgb(17, 172, 228) 80%);}
+.title-page.show h2{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 0.6) 0%, rgba(17, 172, 228, 0.6) 80%);}
+.contact-box{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%);}
+.slide-block .item-container{  background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%); }
+.info-house, #apartment-detail-page .title-page{ background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%);}
+.apartment-details{background-image:none; background-color:#fff !important }
+
+}
+
+@media screen and (max-width: 840px) {
+.left-content{background:-webkit-linear-gradient(320deg, rgba(118, 174, 67, 1) 0%, rgba(17, 172, 228, 1) 80%);}
+.b-left, .b-top, .b-right, .b-bottom{background-image:none; background-color:#fff !important}
+}
