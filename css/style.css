@@ -246,10 +246,10 @@ a.link-home:hover{ border: 5px solid rgba(255, 255, 255,1); }
 .corner-top{right:-200px; top:-200px;-webkit-transform:scale(0.6);transform:scale(0.6)}
 .corner-bottom{left:-300px; bottom:-100px}
 .corner-top span, .corner-bottom span{ position:absolute; width:700px; height:700px; left:0; top:0}
-.line-01{ background:url(../images/l1.svg) no-repeat center center / contain;-webkit-animation-delay:0.6s;animation-delay:0.6s;}
-.line-02{ background:url(../images/l2.svg) no-repeat center center / contain;-webkit-animation-delay:0.9s;animation-delay:0.9s;}
-.line-03{ background:url(../images/l3.svg) no-repeat center center / contain;-webkit-animation-delay:0.7s;animation-delay:0.7s;}
-.line-04{ background:url(../images/l4.svg) no-repeat center center / contain;-webkit-animation-delay:1.6s;animation-delay:1.6s;}
+.line-01{ background:url(../images/l1.png) no-repeat center center / contain;-webkit-animation-delay:0.6s;animation-delay:0.6s;}
+.line-02{ background:url(../images/l2.png) no-repeat center center / contain;-webkit-animation-delay:0.9s;animation-delay:0.9s;}
+.line-03{ background:url(../images/l3.png) no-repeat center center / contain;-webkit-animation-delay:0.7s;animation-delay:0.7s;}
+.line-04{ background:url(../images/l4.png) no-repeat center center / contain;-webkit-animation-delay:1.6s;animation-delay:1.6s;}
 .corner-top.show span, .corner-bottom.show span {-webkit-animation:RotateNew;animation:RotateNew;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite; -webkit-animation-direction: alternate;animation-direction: alternate;}
 .corner-top.show .line-01{-webkit-animation-duration: 8s;animation-duration:8s;}
 .corner-bottom.show .line-01{-webkit-animation-duration: 6s;animation-duration:6s;}
